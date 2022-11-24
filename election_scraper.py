@@ -1,5 +1,5 @@
 """
-projekt3_Jan_Flasar.py třetí projekt do Engeto online Python Akademie
+election_scraper.py třetí projekt do Engeto online Python Akademie
 
 autor: Jan Flašar
 email: honza.flasar@volny.cz
