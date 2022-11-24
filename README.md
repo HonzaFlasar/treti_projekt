@@ -1,6 +1,6 @@
 README.md
 
-Projekt3_election_scraper.py
+election_scraper.py
 Jan Flašar - třetí projekt do Engeto online Python Akademie
 
 Tento program extrahuje výsledky parlamentních voleb 2017 ve vybraném okrese.
@@ -17,7 +17,7 @@ Příklad pro okres Přerov:
 2. argument: "vysledky_Prerov.csv"
 
 Příkazový řádek pak vypadá takto: 
-projekt3_election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7104" "vysledky_Prerov.csv"
+election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7104" "vysledky_Prerov.csv"
 
 Ukázka výstupního souboru csv:
 Kód obce,Název obce,Voliči,Obálky,Platné hlasy,Občanská demokratická strana,Řád národa - Vlastenecká unie,
